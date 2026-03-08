@@ -1,2 +1,1 @@
-# CareerPortfolio
-Capstone portfolio to show off my work 
+Hi, I'm Laolu 👋 Currently a student Frostburg State university
